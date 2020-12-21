@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">event_page</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_heading">Find Amazing events happening around you.</string>
+    <string name="dashboard_sub_title">480 events around you</string>
+    <string name="search_bar_hint">search for an event…</string>
+    <string name="location">VIT Bhopal, Bhopal, India</string>
+    <string name="desc">Something exciting is coming along! And so here we announce Android Kotlin Program powered by @googledevs @android. Be ready for a new adventure journey with Android. All the further details will be communicated on DSC VIT Bhopal Discord channel. Hope to see you all 😀 #android #kotlin #dsc #dscvitbhopal </string>
+
+</resources>
